@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-10T17:57:33.339+00:00"}
 ---
 
 Welcome to the Home Page of my study revision site! Included are notes/resource I use day-to-day*, to revise! 

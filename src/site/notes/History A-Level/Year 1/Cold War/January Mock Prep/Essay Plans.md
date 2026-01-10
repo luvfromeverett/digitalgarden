@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans/"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans/","created":"2026-01-10T13:27:44.065+00:00","updated":"2026-01-10T17:59:33.169+00:00"}
 ---
 
 #essayplans
