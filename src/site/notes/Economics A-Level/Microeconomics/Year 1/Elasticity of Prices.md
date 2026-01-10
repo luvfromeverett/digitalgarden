@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/","created":"2026-01-10T16:41:25.468+00:00","updated":"2026-01-10T18:59:47.075+00:00"}
+{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/"}
 ---
 
 ![Pasted image 20260110170153.png](/img/user/Assets/Pasted%20image%2020260110170153.png)

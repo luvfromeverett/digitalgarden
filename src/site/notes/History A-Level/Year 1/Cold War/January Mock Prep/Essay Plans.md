@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans/","created":"2026-01-10T13:27:44.065+00:00","updated":"2026-01-10T17:59:33.169+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans/"}
 ---
 
 #essayplans
@@ -51,7 +51,7 @@
 						- US now had incredible vested interests in Germany, and was not going to give it up via a unification of the 4 zones -> FEARS IT WAS TO BE ANOTHER SATELITE STATE.
 			- Rejected unification @ the Moscow conference, Spring 1947 (as the USSR did not want to change its economic framework in Germany, a 'successful failure')
 				- Fears it would become another satellite state + be prone to communist uprising, e.g. the formation of the SED in West Germany (socialist party) increased fears that the USSR was attempting a 'democratic uprising'.
-				- 'Perhaps there were plans of invasion?' -> USSR train of thought.
+				- 'Perhaps there were plans of invasion?' -> US train of thought.
 		- Led to the Berlin Blockade from 24 June 1948, to 12 May 1949.
 			- Operation Villiers and Plainfare succeeded, showed the USSR that capitalism was to be on the USSR's border.
 		- Led to the formation of NATO @ 4th April, 1949 - significant as it reinforced the principles of democracy signed in the Treaty of Brussels a year earlier - and its exclusion of the USSR not only increased the threat of 'direct conflict' that the Truman Plan spoke of, but it was the nail in the coffin for the Great Alliance (another cause conflict in it of itself)

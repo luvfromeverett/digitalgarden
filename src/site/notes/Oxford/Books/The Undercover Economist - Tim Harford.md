@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oxford/books/the-undercover-economist-tim-harford/","title":"The Undercover Economist","created":"2026-01-10T15:39:53.769+00:00","updated":"2026-01-10T18:58:27.581+00:00"}
+{"dg-publish":true,"permalink":"/oxford/books/the-undercover-economist-tim-harford/","title":"The Undercover Economist"}
 ---
 
 # ☕ Chapter 1 It's More Than Just a Cup of Coffee
