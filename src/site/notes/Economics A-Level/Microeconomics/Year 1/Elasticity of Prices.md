@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/","created":"2026-01-10T16:41:25.468+00:00","updated":"2026-01-10T18:57:28.427+00:00"}
+{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/","created":"2026-01-10T16:41:25.468+00:00","updated":"2026-01-10T18:59:47.075+00:00"}
 ---
 
 ![Pasted image 20260110170153.png](/img/user/Economics%20A-Level/Assets/Pasted%20image%2020260110170153.png)
@@ -19,6 +19,7 @@ An indirect tax is a levy imposed on activities that generate negative externali
 Pros:
 - Works through the price mechanism to move the market toward the social optimum.
 - Generates revenue that can compensate those harmed by the external cost.
+
 Cons:
 - Difficult to monitor and to determine the optimal tax level.
 - Regressive; it hits low-income households hardest.
@@ -27,6 +28,7 @@ Cons:
 Pros:
 - Enforced by fines or imprisonment, making avoidance harder than in a purely market setting.
 - Can set standards that keep the externality close to the social optimum.
+
 Cons:
 - May eliminate beneficial production along with the harmful side-effects, potentially causing unemployment.
 - Restricts personal freedom, is costly to enforce, and can push activity underground (shadow markets).
@@ -35,6 +37,7 @@ Cons:
 Pros:
 - Prices the externality by lowering production costs, moving output toward the social optimum.
 - Can generate long-term benefits, such as healthier workers who pay more taxes.
+
 Cons:
 - Information problems: determining the optimal subsidy size is hard.
 - Opportunity cost: tax money could be spent elsewhere; risk of bureaucratic inefficiency.
