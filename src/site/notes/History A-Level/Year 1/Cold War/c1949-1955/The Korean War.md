@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:33:07.297+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:33:26.129+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -53,7 +53,7 @@
 	- This severely limited the scope of the conflict since there were suggestions of the use of nuclear weapons (suggestion by McArthur)
 		- The main aim at this point then was to reduce the presence of NK in the South.
 		- MacArthur would be dismissed in April 1951, and by June 1951 there was a willingness on the part of the US to negotiate a peace settlement.
-- **Phase 4 (**June 1951-July 1953)**
+- **Phase 4 (June 1951-July 1953)**
 	- Winding down of the conflict.
 	- No significant movement of offensives on either side.
 	- In 1952, Eisenhower would win the election on a pro-peace ticket (explained by the [[History A-Level/Year 1/Cold War/c1949-1955/Domino Theory\|Domino Theory]], signalling a clear mandate to bring the war to an end.
