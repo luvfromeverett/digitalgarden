@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans/","created":"2026-01-10T13:27:44.065+00:00","updated":"2026-01-10T21:46:54.045+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans/","created":"2026-01-10T13:27:44.065+00:00","updated":"2026-01-11T14:01:41.441+00:00"}
 ---
 
 #essayplans
@@ -60,4 +60,4 @@
 	- Significant to most extent; although NATO did not create any further conflict; the Treaty of Brussels a year earlier fortified the principles of democracy, and NATO was only a reaffirmation of this AS A RESULT of the conflict that arose in Germany. Therefore, if the USSR was truly to increase its retaliatory efforts, it would've been a year earlier.
 - In conclusion, the United States was not solely responsible for the collapse of the Grand Alliance. The fact that the USSR began backtracking on its agreements @ Yalta and Potsdam with Poland resulted in a more hostile US foreign policy approach. Nevertheless, the collapse of the Great Alliance is not the fault of any one nation: both contributed to the increases in escalation, with the US' Marshal Plan making it seem like it was serving its own economic interests in Europe, and its refusal of unification adding to the fears of a 'direct attack' as the US was now on the USSR's border. Thus, the view is invalid.
 
- >This also links to further in the course during Asia, w/ the [[US' Foreign Policy Around Asia\|US' Foreign Policy Around Asia]]
+ >The US' containment foreign policy also links to the [[History A-Level/Year 1/Cold War/c1949-1955/The Korean War\|The Korean War]]
