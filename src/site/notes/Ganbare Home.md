@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:43:10.832+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:45:26.360+00:00"}
 ---
 
 <div style="
@@ -7,8 +7,9 @@
   border: 1px solid rgba(255, 177, 33, 0.25);
   border-radius: 12px;
   padding: 1.25rem 1.4rem;
-  max-width: 720px;
-  margin: 1.5rem auto;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 1.25rem 0;
   box-shadow: 0 8px 24px rgba(0,0,0,0.35);
 ">
 
