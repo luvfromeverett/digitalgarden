@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T15:04:03.230+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T15:04:39.967+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -64,7 +64,7 @@
 
 ---
 
-## 📜 Defensive Perimeter Strategy (12Jan 1950)
+## 📜 Defensive Perimeter Strategy (12th of Jan,  1950)
 
 - **Key points from Acheson’s view**
 	- Acheson thought that the policy of the USA should be to develop to ensure security of the South Pacific.
