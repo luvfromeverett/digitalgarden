@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:41:39.652+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:42:26.891+00:00"}
 ---
 
 <div style="
@@ -72,7 +72,7 @@
 > 💷 [[Economics A-Level/Microeconomics/Year 1/Elasticity of Prices\|Elasticity of Prices]]
 > *rest under construction*
 
-# A Level Economics 💰
+# A Level Politics 💰
 
 ## UK Politics
 
@@ -93,6 +93,7 @@
 ## Stuart Britain
 
 > 🏗️ Under construction!
+
 # A Level Mathematics 💰
 
 ## Pure Maths
