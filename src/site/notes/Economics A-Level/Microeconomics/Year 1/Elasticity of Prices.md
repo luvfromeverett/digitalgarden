@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/","created":"2026-01-10T16:41:25.468+00:00","updated":"2026-01-11T14:55:01.788+00:00"}
+{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/","created":"2026-01-10T16:41:25.468+00:00","updated":"2026-01-11T15:07:14.138+00:00"}
 ---
 
 ![Pasted image 20260110170153.png](/img/user/Assets/Pasted%20image%2020260110170153.png)
@@ -11,6 +11,9 @@
 | Negative Consumption | Overconsumption  |
 | Positive Production  | Underproduction  |
 | Positive Consumption | Underconsumption |
+
+---
+
 ## Internalising Externalities: Policy Tools 🔨
 
 **Indirect Tax 💵**
@@ -41,7 +44,11 @@ Pros:
 Cons:
 - Information problems: determining the optimal subsidy size is hard.
 - Opportunity cost: tax money could be spent elsewhere, and there's risk of bureaucratic inefficiency.
-## Key Concepts and Definitions 📚
+
+
+---
+
+## Breakdown 📚
 
 > **Private Costs** - Private costs are the costs incurred by individuals or firms directly involved in an economic activity. These are the costs of producing a good or service that are borne solely by the producer or consumer.
 
@@ -59,6 +66,6 @@ Cons:
 
 > **Market Failure** - Market failure happens when the price mechanism **fails to allocate scarce resources efficiently** or when the operation of market forces lead to a **net social welfare loss**
 
-## Free Markets Solve the Basic Economic Problem 🏪
+## How The Basic Economic Problem Is *Solved* In A Free Market 🏪
 
 - Markets assign values to scarce resources; price adjustments reflect changes in supply and demand, providing incentives that guide allocation decisions.
