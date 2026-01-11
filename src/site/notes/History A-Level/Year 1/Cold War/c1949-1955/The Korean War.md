@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:33:26.129+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:41:17.282+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -56,7 +56,7 @@
 - **Phase 4 (June 1951-July 1953)**
 	- Winding down of the conflict.
 	- No significant movement of offensives on either side.
-	- In 1952, Eisenhower would win the election on a pro-peace ticket (explained by the [[History A-Level/Year 1/Cold War/c1949-1955/Domino Theory\|Domino Theory]], signalling a clear mandate to bring the war to an end.
+	- In 1952, Eisenhower would win the election on a pro-peace ticket (explained by the [[History A-Level/Year 1/Cold War/c1949-1955/Domino Theory\|Domino Theory]], signalling a clear mandate to bring the war to an end).
 	- With the death of Stalin in 1953, and the rise of Khrushchev, peace was established.
 
 
