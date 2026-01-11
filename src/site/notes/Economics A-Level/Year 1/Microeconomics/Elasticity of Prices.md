@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/economics-a-level/year-1/microeconomics/elasticity-of-prices/","created":"2026-01-11T19:07:26.359+00:00","updated":"2026-01-11T19:09:04.027+00:00"}
+{"dg-publish":true,"permalink":"/economics-a-level/year-1/microeconomics/elasticity-of-prices/","created":"2026-01-11T19:07:26.359+00:00","updated":"2026-01-11T19:27:08.098+00:00"}
 ---
 
 ## Consequences of Externalities 📊
@@ -66,9 +66,9 @@ Cons:
 
 > **Marginal Private Cost (MPC)** - The additional cost borne by a producer or consumer for one more unit.
 
-> **Marginal Social Benefit (MSB)** - Total benefit to society from one extra unit:
+> **Marginal Social Benefit (MSB)** - Total benefit to society from one extra unit
 
-> **Marginal Social Cost (MSC)** - Total cost to society from one extra unit:
+> **Marginal Social Cost (MSC)** - Total cost to society from one extra unit
 
 > **Market Failure** - Market failure happens when the price mechanism **fails to allocate scarce resources efficiently** or when the operation of market forces lead to a **net social welfare loss**
 
