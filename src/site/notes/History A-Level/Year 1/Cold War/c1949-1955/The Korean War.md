@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:13:40.650+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:21:19.109+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -18,6 +18,16 @@
     
 - The 1946 Autumn Uprising revealed widespread domestic unrest under U.S. occupation.
 
+
+---
+
+## 🔫 Before the War
+- There was a division of Korea after Japan fell, along the 38th parallel
+- No agreement was made between the USSR/US over unification; consequently, the two zones formed as independent states in 1948.
+- The US wanted reunification with Rhee as leader.
+- The USSR did not support the elections that the UN held in 1948 (the USSR was protesting the UN due to their refusal to let China become a member at the time, therefore they were unable to Veto this decision).
+- Stalin wanted a buffer zone as it shared a border with Korea, and the Capitalist South Korea.
+- The USSR did not want a direct conflict with the US.
 
 ---
 
