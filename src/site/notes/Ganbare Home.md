@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T13:59:42.612+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T14:02:40.793+00:00"}
 ---
 
 <div style="background: linear-gradient(135deg, #1c1f26, #14161c); border: 1px solid rgba(255, 177, 33, 0.25); border-radius: 12px; width: 100%; max-width: 720px; margin: 1.25rem auto 7.5rem auto; padding: 1.25rem 1.4rem; box-sizing: border-box; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
@@ -11,12 +11,15 @@
 
   <div style="color: #e6e6e6; font-size: 0.95rem; line-height: 1.55;">
     <p style="margin: 0.6rem 0;">
-      Welcome to the Home Page of my study revision site! Included are notes/resource I use day-to-day*, to revise!
+      Welcome to the Home Page of my study revision site! Included are notes/resource I use day-to-day to revise!
     </p>
 
     <p style="margin: 0.6rem 0;">
       If you have some good quality notes you'd be willing to contribute yourself, please send them my way
       and I'd be more than happy to transcribe / transfer your notes to this site (with credit, of course).
+    </p>
+<p style="margin: 0.6rem 0;">
+      *Please bear in mind that this site is still under construction!*
     </p>
 
     <p style="margin: 0.9rem 0 0 0; font-style: italic;">
