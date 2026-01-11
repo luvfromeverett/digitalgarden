@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:49:31.692+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:52:45.672+00:00"}
 ---
 
-<div style="background: linear-gradient(135deg, #1c1f26, #14161c); border: 1px solid rgba(255, 177, 33, 0.25); border-radius: 12px; width: 100%; max-width: 720px; margin: 1.25rem auto; padding: 1.25rem 1.4rem; box-sizing: border-box; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
+<div style="background: linear-gradient(135deg, #1c1f26, #14161c); border: 1px solid rgba(255, 177, 33, 0.25); border-radius: 12px; width: 100%; max-width: 720px; margin: 1.25rem auto 2.5rem auto; padding: 1.25rem 1.4rem; box-sizing: border-box; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
 
   <div style="display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.75rem;">
     <span style="display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border-radius: 999px; background: #ffb121; color: #1a1a1a; font-weight: 700; font-size: 0.9rem; line-height: 1; flex: 0 0 auto;">?</span>
@@ -24,8 +24,6 @@
     </p>
   </div>
 </div>
-
-
 # A Level Economics 💰
 
 ## Microeconomics
