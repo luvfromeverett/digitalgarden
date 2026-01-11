@@ -14,7 +14,7 @@
 > This ultimately comes back to this idea of *who* has power in an economy - i.e. who has the most 'bargaining power'. In an area with a high volume of traffic - such as Euston Station - those who own the land have the most 'bargaining power'. This is because what they own is infinitely scarce - i.e. you can't just 'make' new land. However, those who want to rent out the land for coffee purposes do not hold anything of much scarcity - because, ultimately, there are many coffee chains, and only one piece of this very land. Hence, this makes the rent of these very coffee shops insanely high, because the land owners are providing the derived demand. 
 - The idea of 'resource allocation' is thus at the heart of many contemporary issues in our society. The Green Belt is a great example of this. Many people have been proclaiming - recently - that they do not want the government to 'build on the greenbelt'. By doing this, house prices have shot up over time.
 	- This therefore makes the housing supply price inelastic, wherein political resistance (mainly by the salaried classes) helps maintain this scarcity.
-		- Thus linking scarcity to the [[Economics A-Level/Microeconomics/Year 1/Elasticity of Prices\|Elasticity of Prices]]
+		- Thus linking scarcity to the [[Economics A-Level/Year 1/Microeconomics/Elasticity of Prices\|Elasticity of Prices]]
 
 
 

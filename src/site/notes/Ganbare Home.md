@@ -35,7 +35,7 @@
 > 🏗️ Under construction!
 ## Macroeconomics
 
-> 💷 [[Economics A-Level/Microeconomics/Year 1/Elasticity of Prices\|Elasticity of Prices]]
+> 💷 [[Economics A-Level/Year 1/Microeconomics/Elasticity of Prices\|Elasticity of Prices]]
 > *rest under construction*
 
 <div style="height: 3rem;"></div>

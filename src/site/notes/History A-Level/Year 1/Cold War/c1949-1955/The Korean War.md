@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T16:20:32.018+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T19:08:31.843+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -17,6 +17,7 @@
 - The USSR did not support the elections that the UN held in 1948 (the USSR was protesting the UN due to their refusal to let China become a member at the time, therefore they were unable to Veto this decision).
 - Stalin wanted a buffer zone as it shared a border with Korea, and the Capitalist South Korea.
 - The USSR did not want a direct conflict with the US.
+
 
 ---
 
