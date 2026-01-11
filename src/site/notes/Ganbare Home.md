@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T19:01:41.947+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T21:44:54.847+00:00"}
 ---
 
 <div style="background: linear-gradient(135deg, #1c1f26, #14161c); border: 1px solid rgba(255, 177, 33, 0.25); border-radius: 12px; width: 100%; max-width: 720px; margin: 1.25rem auto 7.5rem auto; padding: 1.25rem 1.4rem; box-sizing: border-box; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
@@ -32,11 +32,10 @@
 
 ## Microeconomics
 
-> 🏗️ Under construction!
+> 💷 [[Economics A-Level/Year 1/Microeconomics/Elasticity of Prices\|Elasticity of Prices]]
 ## Macroeconomics
 
-> 💷 [[Economics A-Level/Year 1/Microeconomics/Elasticity of Prices\|Elasticity of Prices]]
-> *rest under construction*
+> 🏗️ Under construction!
 
 <div style="height: 3rem;"></div>
 
