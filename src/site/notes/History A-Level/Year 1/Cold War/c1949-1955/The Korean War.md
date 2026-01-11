@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T13:59:04.573+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:00:52.252+00:00"}
 ---
 
 
@@ -119,9 +119,6 @@ _The image contrasts the two arguments, highlighting the interplay between exter
     
 - **Consequence**: This miscommunication contributed significantly to the decision to **launch the invasion** on 25 June 1950.
 
-![U.S. failure slide](https://api-turbo.ai/d151a0d0-0f08-4177-9f60-4fb9a65c342c/d050fb-us-failure-south-korea.jpeg)
-
-_The diagram outlines the cause–effect chain linking U.S. ambiguity, enemy confidence, and the outbreak of war._
 
 ---
 
