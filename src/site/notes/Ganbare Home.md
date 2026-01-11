@@ -1,59 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:47:42.121+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:49:31.692+00:00"}
 ---
 
-<div style="
-  background: linear-gradient(135deg, #1c1f26, #14161c);
-  border: 1px solid rgba(255, 177, 33, 0.25);
-  border-radius: 12px;
+<div style="background: linear-gradient(135deg, #1c1f26, #14161c); border: 1px solid rgba(255, 177, 33, 0.25); border-radius: 12px; width: 100%; max-width: 720px; margin: 1.25rem auto; padding: 1.25rem 1.4rem; box-sizing: border-box; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
 
-  /* key part: looks consistent on the website */
-  width: 100%;
-  max-width: 720px;
-  margin: 1.25rem auto;
-
-  padding: 1.25rem 1.4rem;
-  box-sizing: border-box;
-
-  box-shadow: 0 8px 24px rgba(0,0,0,0.35);
-">
-
-
-  <div style="
-    display: flex;
-    align-items: center;
-    gap: 0.6rem;
-    margin-bottom: 0.75rem;
-  ">
-    <span style="
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 26px;
-      height: 26px;
-      border-radius: 999px;
-      background: #ffb121;
-      color: #1a1a1a;
-      font-weight: 700;
-      font-size: 0.9rem;
-      line-height: 1;
-      flex: 0 0 auto;
-    ">?</span>
-
-    <span style="
-      color: #ffb121;
-      font-weight: 600;
-      font-size: 1.05rem;
-    ">Information</span>
+  <div style="display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.75rem;">
+    <span style="display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border-radius: 999px; background: #ffb121; color: #1a1a1a; font-weight: 700; font-size: 0.9rem; line-height: 1; flex: 0 0 auto;">?</span>
+    <span style="color: #ffb121; font-weight: 600; font-size: 1.05rem;">Information</span>
   </div>
 
-  <div style="
-    color: #e6e6e6;
-    font-size: 0.95rem;
-    line-height: 1.55;
-  ">
+  <div style="color: #e6e6e6; font-size: 0.95rem; line-height: 1.55;">
     <p style="margin: 0.6rem 0;">
-      Welcome to the Home Page of my study revision site! Included are notes/resource I use day-to-day*, to revise! 
+      Welcome to the Home Page of my study revision site! Included are notes/resource I use day-to-day*, to revise!
     </p>
 
     <p style="margin: 0.6rem 0;">
@@ -61,14 +19,12 @@
       and I'd be more than happy to transcribe / transfer your notes to this site (with credit, of course).
     </p>
 
-    <p style="
-      margin: 0.9rem 0 0 0;
-      font-style: italic;
-    ">
-      — Andreas Ioannou <span style="opacity:0.7; font-size:0.85em;"></span>
+    <p style="margin: 0.9rem 0 0 0; font-style: italic;">
+      — Andreas Ioannou
     </p>
   </div>
 </div>
+
 
 # A Level Economics 💰
 
