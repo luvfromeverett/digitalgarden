@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:21:19.109+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:31:39.388+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -22,6 +22,7 @@
 ---
 
 ## 🔫 Before the War
+
 - There was a division of Korea after Japan fell, along the 38th parallel
 - No agreement was made between the USSR/US over unification; consequently, the two zones formed as independent states in 1948.
 - The US wanted reunification with Rhee as leader.
@@ -31,7 +32,35 @@
 
 ---
 
-## 📜 Defensive Perimeter Strategy (12 Jan 1950)
+## 🪖 Phases of the War
+
+- **Phase 1 (June-September 1950):**
+	- During this phase, NK had captured Seoul, SK's capital.
+	- The SK and UN forces would be pushed back as far as Pusan by September 1950.
+- **Phase 2**
+	- During this phase, MacArthur had landed at Inchon and the UN/US forced has pushed NK back to the 38th parallel by September 30th.
+	- Marked a dramatic shift in the foreign policy objectives on the part of the US, from a policy of containment, to one of roll back, as exemplified by the NSC-68.
+		- NSC-68
+			- 1) Urged the US government to spend more on military.
+			- 2) Said the USSR sought world domination.
+			- 3) The Cold War was a moral and ideological struggle:
+				- Freedom vs slavery, democracy vs totalitarianism
+			- **Militarisation of containment**
+	- Pushed NK forces close to China by November 1950.
+		- China intervened to push the forces back down the peninsula.
+- **Phase 3 (December 1950-June 1951)**
+	- During this phase, UN and US forces were driven back.
+	- This severely limited the scope of the conflict since there were suggestions of the use of nuclear weapons (suggestion by McArthur)
+		- The main aim at this point then was to reduce the presence of NK in the South.
+		- MacArthur would be dismissed in April 1951, and by June 1951 there was a willingness on the part of the US to negotiate a peace settlement.
+- **Phase 4 (**June 1951-July 1953)**
+	- Winding down of the conflict.
+	- No significant movement of offensives on either side.
+	- In 1952, Eisenhower would win the election on a pro-peace ticket (explained by the [[History A-Level/Year 1/Cold War/c1949-1955/Domino Theory\|Domino Theory]], signalling a clear mandate to bring the war to an end.
+	- With the death of Stalin in 1953, and the rise of Khrushchev, peace was established.
+
+---
+## 📜 Defensive Perimeter Strategy (12Jan 1950)
 
 > **Definition:** The _Defensive Perimeter Strategy_ was a U.S. policy outlining the limits of American commitment in East Asia during early 1950, aiming to contain Soviet influence without direct confrontation.
 
