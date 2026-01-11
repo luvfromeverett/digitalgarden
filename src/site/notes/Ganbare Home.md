@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T15:36:17.482+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T16:19:33.447+00:00"}
 ---
 
 <div style="background: linear-gradient(135deg, #1c1f26, #14161c); border: 1px solid rgba(255, 177, 33, 0.25); border-radius: 12px; width: 100%; max-width: 720px; margin: 1.25rem auto 7.5rem auto; padding: 1.25rem 1.4rem; box-sizing: border-box; box-shadow: 0 8px 24px rgba(0,0,0,0.35);">
@@ -36,7 +36,7 @@
 > 🏗️ Under construction!
 ## Macroeconomics
 
-> 💷 [[Economics A-Level/Microeconomics/Year 1/Elasticity of Prices\|Elasticity of Prices]]
+> 💷 [[Economics A-Level/Microeconomics/Year 1/Elasticity of Prices 🪙\|Elasticity of Prices 🪙]]
 > *rest under construction*
 
 <div style="height: 3rem;"></div>
@@ -59,8 +59,8 @@
 
 ## Cold War
 
-> ✍️ [[History A-Level/Year 1/Cold War/January Mock Prep/Essay Plans\|Essay Plans]]
-> 🔫 [[History A-Level/Year 1/Cold War/c1949-1955/The Korean War\|The Korean War]]
+> ✍️ [[History A-Level/Year 1/Cold War/January Mock Prep/Essay Plans ✍️\|Essay Plans ✍️]]
+> 🔫 [[History A-Level/Year 1/Cold War/c1949-1955/The Korean War 🪖\|The Korean War 🪖]]
 > *rest under construction*
 ## Stuart Britain
 
