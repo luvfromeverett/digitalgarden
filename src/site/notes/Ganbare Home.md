@@ -1,17 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:45:26.360+00:00"}
+{"dg-publish":true,"permalink":"/ganbare-home/","tags":["gardenEntry"],"created":"2026-01-10T17:53:23.690+00:00","updated":"2026-01-11T12:47:42.121+00:00"}
 ---
 
 <div style="
   background: linear-gradient(135deg, #1c1f26, #14161c);
   border: 1px solid rgba(255, 177, 33, 0.25);
   border-radius: 12px;
-  padding: 1.25rem 1.4rem;
+
+  /* key part: looks consistent on the website */
   width: 100%;
+  max-width: 720px;
+  margin: 1.25rem auto;
+
+  padding: 1.25rem 1.4rem;
   box-sizing: border-box;
-  margin: 1.25rem 0;
+
   box-shadow: 0 8px 24px rgba(0,0,0,0.35);
 ">
+
 
   <div style="
     display: flex;
