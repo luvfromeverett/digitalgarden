@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/"}
+{"dg-publish":true,"permalink":"/economics-a-level/microeconomics/year-1/elasticity-of-prices/","created":"2026-01-10T16:41:25.468+00:00","updated":"2026-01-10T22:41:09.232+00:00"}
 ---
 
 ![Pasted image 20260110170153.png](/img/user/Assets/Pasted%20image%2020260110170153.png)
@@ -33,7 +33,7 @@ Cons:
 - May eliminate beneficial production along with the harmful side-effects, potentially causing unemployment.
 - Restricts personal freedom, is costly to enforce, and can push activity underground (shadow markets).
 
-**Subsidies for Positive Externalities**
+**Subsidies for Positive Externalities 🤑**
 Pros:
 - Prices the externality by lowering production costs, moving output toward the social optimum.
 - Can generate long-term benefits, such as healthier workers who pay more taxes.
