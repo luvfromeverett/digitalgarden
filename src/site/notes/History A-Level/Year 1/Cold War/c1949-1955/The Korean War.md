@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:31:39.388+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:33:07.297+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -59,7 +59,9 @@
 	- In 1952, Eisenhower would win the election on a pro-peace ticket (explained by the [[History A-Level/Year 1/Cold War/c1949-1955/Domino Theory\|Domino Theory]], signalling a clear mandate to bring the war to an end.
 	- With the death of Stalin in 1953, and the rise of Khrushchev, peace was established.
 
+
 ---
+
 ## 📜 Defensive Perimeter Strategy (12Jan 1950)
 
 > **Definition:** The _Defensive Perimeter Strategy_ was a U.S. policy outlining the limits of American commitment in East Asia during early 1950, aiming to contain Soviet influence without direct confrontation.
@@ -145,6 +147,7 @@
 - **Strategic intent**: Expansion of communist influence on the peninsula and pressure on U.S. commitments.
 
 -> April 1950, Stalin gave permission to Kim Il Sung to invade the South.
+
 
 ---
 
