@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:11:18.326+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:13:40.650+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -52,7 +52,7 @@
 
 ### 2️⃣ Korean Society Argument
 
-- **Deep national division**: Post‑World War II split created separate **Northern** and **Southern** regimes.
+- **Deep national division**: Post‑World War II split **(38th Parallel)** created separate **Northern** and **Southern** regimes.
     
 - **Southern regime’s unpopularity**: Widespread discontent with Rhee’s government fuelled instability.
     
