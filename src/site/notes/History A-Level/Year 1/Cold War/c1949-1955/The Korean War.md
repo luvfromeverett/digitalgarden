@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:11:07.952+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:11:18.326+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -72,8 +72,6 @@
 - Nevertheless, the division of Korea was deeply unpopular, and this made it inevitable that one side would seek reunification through war.
 - The regime in the South was extremely unpopular, and only managed to cling on to power through direct American military support. The widespread hatred for the regime in the South meant that the North invaded to help their Southern compatriots overthrow the unpopular Rhee regime and reunite Korea.
 - Kim Il Sung's regime was heavily reliant on Soviet aid; therefore, their ability to invade the South was dependent on USSR support.
-
-_The image contrasts the two arguments, highlighting the interplay between external and internal factors._
 
 
 ---
