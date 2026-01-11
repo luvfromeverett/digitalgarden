@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:08:15.533+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T14:11:07.952+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -60,9 +60,8 @@
     
 - **U.S. initial plan**: The United States originally intended to **divide Korea**, inadvertently setting the stage for conflict.
 
-|                     |                                             |                              |                                             |
-| ------------------- | ------------------------------------------- | ---------------------------- | ------------------------------------------- |
 | Perspective         | Main Drivers                                | Key Actors                   | Evidence                                    |
+| ------------------- | ------------------------------------------- | ---------------------------- | ------------------------------------------- |
 | Superpower Politics | Ideological competition, nuclear deterrence | USSR (Stalin), USA (Acheson) | Soviet nuclear test, U.S. inaction in China |
 | Korean Society      | Internal division, regime legitimacy        | Kim Il Sung, Rhee Syng‑man   | 1946 railroad strike, Southern unpopularity |
 1. It was the USSR's support of Kim Il Sung in the North that encouraged the North to invade the South, triggering the war.
