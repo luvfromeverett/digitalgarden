@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/chinese-revolution/","created":"2026-01-12T14:46:51.886+00:00","updated":"2026-01-12T18:15:34.861+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/chinese-revolution/","created":"2026-01-12T14:46:51.886+00:00","updated":"2026-01-12T18:17:30.866+00:00"}
 ---
 
 
-## The Chinese Political Environment c1945-50 🇨🇳
+## The Chinese Political Environment c1945-50 🔫
 
 **Leaders:**
 - Mao v. Jiang
