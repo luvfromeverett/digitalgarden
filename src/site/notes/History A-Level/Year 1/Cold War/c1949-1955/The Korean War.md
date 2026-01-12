@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-11T19:08:31.843+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/c1949-1955/the-korean-war/","created":"2026-01-11T13:44:54.832+00:00","updated":"2026-01-12T14:32:54.397+00:00"}
 ---
 
 <div style="height: 3rem;"></div>
@@ -28,7 +28,7 @@
 - **Phase 1 (June-September 1950):**
 	- During this phase, NK had captured Seoul, SK's capital.
 	- The SK and UN forces would be pushed back as far as Pusan by September 1950.
-- **Phase 2**
+- **Phase 2:**
 	- During this phase, MacArthur had landed at Inchon and the UN/US forced has pushed NK back to the 38th parallel by September 30th.
 	- Marked a dramatic shift in the foreign policy objectives on the part of the US, from a policy of containment, to one of roll back, as exemplified by the NSC-68.
 		- NSC-68
