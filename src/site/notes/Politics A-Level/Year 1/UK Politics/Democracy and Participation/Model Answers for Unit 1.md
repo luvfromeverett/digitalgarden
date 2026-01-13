@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-a-level/year-1/uk-politics/democracy-and-participation/model-answers-for-unit-1/","created":"2026-01-13T17:45:57.589+00:00","updated":"2026-01-13T18:05:16.971+00:00"}
+{"dg-publish":true,"permalink":"/politics-a-level/year-1/uk-politics/democracy-and-participation/model-answers-for-unit-1/","created":"2026-01-13T17:45:57.589+00:00","updated":"2026-01-13T18:05:35.330+00:00"}
 ---
 
 
@@ -48,7 +48,7 @@ In conclusion, corporations are more important than pressure groups in terms of 
 > "Good conclusion, well-thought out, sustained judgement!" 
 
 **Note:** 
-> "Great AO1. Your AO2 is also splendid, although you are slightly repetitive at times. Good AO3, but it would've been nice to see a bit more balance by mentioning a counter to the Transparency Lobbying Act"
+> "Great AO1. Your AO2 is also splendid, although you are slightly repetitive at times. Good AO3, but it would've been nice to see a bit more balance by mentioning a counter to the Transparency Lobbying Act."
 
 - AO1: 9/10
 - AO2: 8/10 
