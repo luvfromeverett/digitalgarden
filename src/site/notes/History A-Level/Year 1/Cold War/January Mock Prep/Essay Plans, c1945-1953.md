@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans-c1945-1953/","created":"2026-01-10T13:27:44.065+00:00","updated":"2026-01-11T16:20:30.282+00:00"}
+{"dg-publish":true,"permalink":"/history-a-level/year-1/cold-war/january-mock-prep/essay-plans-c1945-1953/","created":"2026-01-10T13:27:44.065+00:00","updated":"2026-01-21T11:56:21.775+00:00"}
 ---
 
 #essayplans
@@ -60,4 +60,29 @@
 	- Significant to most extent; although NATO did not create any further conflict; the Treaty of Brussels a year earlier fortified the principles of democracy, and NATO was only a reaffirmation of this AS A RESULT of the conflict that arose in Germany. Therefore, if the USSR was truly to increase its retaliatory efforts, it would've been a year earlier.
 - In conclusion, the United States was not solely responsible for the collapse of the Grand Alliance. The fact that the USSR began backtracking on its agreements @ Yalta and Potsdam with Poland resulted in a more hostile US foreign policy approach. Nevertheless, the collapse of the Great Alliance is not the fault of any one nation: both contributed to the increases in escalation, with the US' Marshal Plan making it seem like it was serving its own economic interests in Europe, and its refusal of unification adding to the fears of a 'direct attack' as the US was now on the USSR's border. Thus, the view is invalid.
 
- >The US' containment foreign policy also links to the [[History A-Level/Year 1/Cold War/c1949-1955/The Korean War\|The Korean War]]
+****
+
+**The Marshall Plan marked the beginning of the Cold War (25)**
+- Define the terms of the question: the Marshall Plan was an economic programme that sought to provide financial aid to European Countries in return for increase trade with said European countries. 
+	- It provided $13.5 billion in aid to 16 countries 
+
+- Many European countries were turning communist; this was because WW2 had left many European countries’ finances in a dire state. Therefore, more people were inclined to reject the capitalist status-quo and thus sought greater political extremes. 
+	- Just months prior, USA diplomats had responded to the USSR’s breach of the Declaration of Liberated Europe - as it had been gradually turned into a satellite state because many communists were brought into the Lisbon/Warsaw government (weakening the influence of the Polish officials who fled to London, but came back). 
+		- Both countries were fighting for greater status and prestige on the world stage: WW2 had left Europe in much of a power vacuum which both administrations were fighting over. 
+	- Moreover, France and Italy, Western European countries, were also gradually turning communist
+		- The PCI went from 5,000 members to 1.7 million members from 1943 to ‘45.
+		- November 1946: the PCF was the largest party in the state-legislature, winning 29% of the total seats. 
+			- Despite this, Stalin did not want Western Europe, becuase he feared doing so would provoke a direct attack from the USA; furthermore, he feared expansion westwards would spread his power too thin.
+			- The communist ideological expansion in these countries could be seen as a manifestation of the worsening economic conditions in these very countries, which thus effected voting behaviour and threatened the former capitalist status-quo.
+				- Thus, the goal of the Marshall Plan was to improve the economic conditions of these very countries in the hope that this would show that capitalism had been ‘working’.
+				- Yet, Communists like Molotov saw this as a form of ‘dollar imperialism’ as the USA was serving their own economic interests. 
+					- The Marshall Plan required countries in receipt of aid to increase their trade with the USA.
+					- Soviet Union diplomats such as Molotov saw this as a way to entrench American power by increasing the reliance of these countries on American trade. As the USA produced 50% of the world’s goods by this time, the USSR saw this as America’s way to create a political system in Europe that was over reliant on American trade and thus prevent the overthrowing of the very system American trade relied on (by restructuring European economic in a way that not only were full of American vested interests, but also, in a way that made these very economies an extension of the USA’s own industrial economy).
+						- The USA created the Marshall Plan to improve the economic conditions of these countries, but by doing so, it could be argued that it also served its own interests - as by protecting the capitalist status-quo, it became heavily involved in these countries. Thus both aims, economic and ideological, could’ve been seen as mutually important for America.
+							- It could be argued then that this increased the hostility between both powers as the USSR implemented its response via the formation of Comecon in January 1949.
+							- Arguably, they not only did this because of the Marshall Plan, but because America had increased the diplomatic tensions between both powers (which allowed for the formation of the Marshall Plan).
+								- February 1946: Kennan’s Long Telegram argued that America may have to use ‘direct force’ against Communism to maintain the liberal democratic order.
+								- March 1946: Churchill’s Iron Curtain speech argued that the USSR was creating an ‘iron curtain’ of atrocity between the west and itself - a “glacis of states”.
+								- These documents shaped US foreign policy.
+							- It didn’t help then that countries in the “iron curtain” were interested in the Marshall Plan (e.g. Czechoslovakia).
+								- Again prompting diplomatic response from the USSR (to reinforce their power and unite the economic frameworks of Eastern European countries even further by making them over reliant on the USSR) as this threatened their “glacis of states” idea. 
